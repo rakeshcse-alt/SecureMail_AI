@@ -35,7 +35,27 @@ SecureMail_AI/
 - Python 3.11 (Recommended)
 - pip
 ---
+## Dataset
+
+The phishing email dataset used in this project was obtained from **Kaggle**. The dataset contains a collection of legitimate and phishing email messages, which were used to train and evaluate the machine learning classifier.
+
+### Dataset Features
+
+- Email content (`text_combined`)
+- Email class label
+  - `0` – Legitimate Email
+  - `1` – Phishing Email
+
+The dataset was preprocessed using text cleaning techniques, followed by TF-IDF vectorization before training the machine learning model.
+
+### Dataset Source
+
+Kaggle: Phishing Email Dataset
+
+https://www.kaggle.com/
+
 ## Installation
+
 ### Clone Repository
 ```bash
 git clone https://github.com/<YOUR_USERNAME>/SecureMail_AI.git
