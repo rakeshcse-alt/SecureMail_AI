@@ -1,9 +1,7 @@
-# SecureMail_AI
-SecureMail AI is an intelligent phishing detection system that integrates machine learning with email intent analysis, URL inspection, sender reputation analysis, and risk scoring to identify phishing emails through an interactive Gradio interface
-
 # SecureMail AI
 ## Intelligent Phishing Detection Using Email Intent and Behavioral Analysis
-SecureMail AI is an AI-based phishing email detection system that combines Machine Learning with multiple security analysis techniques to identify phishing emails more accurately.
+SecureMail AI is an intelligent phishing detection system that integrates machine learning with email intent analysis, URL inspection, sender reputation analysis, and risk scoring to identify phishing emails through an interactive Gradio interface
+.
 ---
 ## Features
 - Machine Learning-based phishing detection
