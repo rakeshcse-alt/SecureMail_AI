@@ -75,25 +75,8 @@ http://127.0.0.1:7860
 - TLDExtract
 ---
 ## Machine Learning Pipeline
-Dataset
-↓
-Text Cleaning
-↓
-TF-IDF Vectorization
-↓
-Machine Learning Classification
-↓
-Phishing Prediction
-↓
-Intent Detection
-↓
-URL Analysis
-↓
-Sender Reputation Analysis
-↓
-Risk Score Generation
-↓
-Final Security Report
+Dataset --> Text Cleaning --> TF-IDF Vectorization --> Machine Learning Classification --> Phishing Prediction --> Intent Detection
+--> URL Analysis --> Sender Reputation Analysis --> Risk Score Generation --> Final Security Report
 ---
 ## Author
 
